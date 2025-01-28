@@ -1,7 +1,7 @@
 # IMU Vibration Detection and Compensation Project
 
 This repository focuses on detecting and compensating for vibrations in non-ideal IMU (Inertial Measurement Unit) data. The study combines signal processing, machine learning, and deep learning techniques in MATLAB, inspired by the [MATLAB-Simulink Challenge Project Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data) (Project #231).
-This file is for general overview. Detailed information about the project can be accessed in `Report/report.pdf` file.
+This file is for general overview. Detailed information about the project, and the references of this project can be accessed in `Report/report.pdf` file.
 
 ## Contributors
 - **Buket ÖZBAY** - [ozbayb21@itu.edu.tr](mailto:ozbayb21@itu.edu.tr), **Deniz ERDOĞAN** - [erdogand21@itu.edu.tr](mailto:erdogand21@itu.edu.tr)
