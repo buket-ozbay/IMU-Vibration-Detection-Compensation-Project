@@ -5,6 +5,7 @@ This file is for general overview. Detailed information about the project can be
 
 ## Contributors
 - **Buket ÖZBAY** - [ozbayb21@itu.edu.tr](mailto:ozbayb21@itu.edu.tr), **Deniz ERDOĞAN** - [erdogand21@itu.edu.tr](mailto:erdogand21@itu.edu.tr)
+For any comment or recommendation, please contact us.
 
 ---
 
@@ -14,6 +15,8 @@ To reproduce the study results, execute the following scripts in order:
 1. `data_generation.m`  
 2. `kmeans_classification.m`  
 3. `vibration_comp_DL.m`
+
+Note: `moving_imu.m` file is only for understanding the IMU behavior in motion. Therefore, it does not necessarily need to be installed to run the project.
 
 ---
 
@@ -76,4 +79,4 @@ A denoising autoencoder was implemented to reduce vibration effects in IMU data.
 ---
 
 ## Future Work
-To enhance data generation, generative AI techniques such as GANs or diffusion models will replace signal processing methods. This approach will expand the dataset and improve model training.
+To enhance data generation, generative AI techniques such as GANs will replace signal processing methods. This approach will expand the dataset and improve model training.
