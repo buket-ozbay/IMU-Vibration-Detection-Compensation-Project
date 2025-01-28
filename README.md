@@ -5,7 +5,7 @@ This file is for general overview. Detailed information about the project can be
 
 ## Contributors
 - **Buket ÖZBAY** - [ozbayb21@itu.edu.tr](mailto:ozbayb21@itu.edu.tr), **Deniz ERDOĞAN** - [erdogand21@itu.edu.tr](mailto:erdogand21@itu.edu.tr)
-For any comment or recommendation, please contact us.
+- For any comment or recommendation, please contact us.
 
 ---
 
