@@ -39,7 +39,7 @@ The initial step involved analyzing the Kaggle dataset: *Accelerometer Data Set 
 
 - **Time-Domain Analysis:** Studied acceleration signal behavior over time.
 - **Frequency-Domain Analysis:** Employed Fast Fourier Transform (FFT) to identify vibration characteristics:
-  - **X-Axis:** Dominated by low frequencies; static or low-frequency vibrations were negligible. This axis was excluded.
+  - **X-Axis:** Dominated by low frequencies; static or low-frequency vibrations were negligible. This axis was excluded. Therefore, x-axis vibration is ignored.
   - **Y-Axis:** A significant peak around 15 Hz indicated mechanical resonance or a vibration source.
   - **Z-Axis:** Moderate peaks observed in the 10–15 Hz range, suggesting medium-frequency vibrations.
 
