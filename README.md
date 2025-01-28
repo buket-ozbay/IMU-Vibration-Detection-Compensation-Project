@@ -4,6 +4,12 @@ This is a GitHub repository for the real world, non-ideal IMU's vibration detect
 # Contributors
 Buket ÖZBAY - ozbayb21@itu.edu.tr & Deniz ERDOĞAN - erdogand21@itu.edu.tr
 
+# Order of running the scripts
+
+1.	data_generation.m
+2.	kmeans_classification.m
+3.	vibration_comp_DL.m
+
 # Aim of Project
 Vibration signals can be caused by engines or environmental factors. Accelerometer and gyroscope data can be negatively impacted by vibration of the vehicle, which can in turn degrade the vehicle’s ability to navigate accurately. 
 Therefore, systems that tolerate vibration are being developed. 
